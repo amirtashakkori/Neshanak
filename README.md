@@ -18,7 +18,7 @@ The entire UI is in Persian and laid out right-to-left.
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/Neshanak.jpg" width="760"/><br/>
+  <img src="screenshots/Neshanak.jpg" width="782"/><br/>
   <sub><b>App overview</b></sub>
 </p>
 
