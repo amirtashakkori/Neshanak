@@ -19,14 +19,14 @@ The entire UI is in Persian and laid out right-to-left.
 
 <table>
   <tr>
-    <td align="center"><img src="screenshots/Neshanak.png" width="250"/><br/><sub><b>Welcome</b></sub></td>
-    <td align="center"><img src="screenshots/Home.png" width="250"/><br/><sub><b>Home</b></sub></td>
-    <td align="center"><img src="screenshots/Library.png" width="250"/><br/><sub><b>Library</b></sub></td>
+    <td align="center"><img src="screenshots/Neshanak.jpg" width="250"/><br/><sub><b>Welcome</b></sub></td>
+    <td align="center"><img src="screenshots/Home.jpg" width="250"/><br/><sub><b>Home</b></sub></td>
+    <td align="center"><img src="screenshots/Library.jpg" width="250"/><br/><sub><b>Library</b></sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="screenshots/Details.png" width="250"/><br/><sub><b>Book details</b></sub></td>
-    <td align="center"><img src="screenshots/Notes.png" width="250"/><br/><sub><b>Notes &amp; quotes</b></sub></td>
-    <td align="center"><img src="screenshots/UserPanel.png" width="250"/><br/><sub><b>Reading chart</b></sub></td>
+    <td align="center"><img src="screenshots/Details.jpg" width="250"/><br/><sub><b>Book details</b></sub></td>
+    <td align="center"><img src="screenshots/Notes.jpg" width="250"/><br/><sub><b>Notes &amp; quotes</b></sub></td>
+    <td align="center"><img src="screenshots/UserPanel.jpg" width="250"/><br/><sub><b>Reading chart</b></sub></td>
   </tr>
 </table>
 
