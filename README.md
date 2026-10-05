@@ -18,17 +18,17 @@ The entire UI is in Persian and laid out right-to-left.
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/Neshanak.jpg" width="782"/><br/>
+  <img src="screenshots/Neshanak.jpg" width="766"/><br/>
   <sub><b>App overview</b></sub>
 </p>
 
-<div align="center" style="display: flex; justify-content: center; gap: 8px;">
-  <img src="screenshots/Home.jpg" alt="Home" width="150"/>
-  <img src="screenshots/Library.jpg" alt="Library" width="150"/>
-  <img src="screenshots/Details.jpg" alt="Book details" width="150"/>
-  <img src="screenshots/Notes.jpg" alt="Notes and quotes" width="150"/>
-  <img src="screenshots/UserPanel.jpg" alt="Reading chart" width="150"/>
-</div>
+<p align="center"> 
+  <img src="screenshots/Home.jpg" alt="Home" width="150"/> 
+  <img src="screenshots/Library.jpg" alt="Library" width="150"/> 
+  <img src="screenshots/Details.jpg" alt="Book details" width="150"/> 
+  <img src="screenshots/Notes.jpg" alt="Notes and quotes" width="150"/> 
+  <img src="screenshots/UserPanel.jpg" alt="Reading chart" width="150"/> 
+</p>
 
 ## Features
 
