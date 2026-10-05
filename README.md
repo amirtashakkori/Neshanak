@@ -23,11 +23,11 @@ The entire UI is in Persian and laid out right-to-left.
 </p>
 
 <p align="center">
-  <img src="screenshots/Home.jpg" alt="Home" width="170"/>
-  <img src="screenshots/Library.jpg" alt="Library" width="170"/>
-  <img src="screenshots/Details.jpg" alt="Book details" width="170"/>
-  <img src="screenshots/Notes.jpg" alt="Notes and quotes" width="170"/>
-  <img src="screenshots/UserPanel.jpg" alt="Reading chart" width="170"/>
+  <img src="screenshots/Home.jpg" alt="Home" width="150"/>
+  <img src="screenshots/Library.jpg" alt="Library" width="150"/>
+  <img src="screenshots/Details.jpg" alt="Book details" width="150"/>
+  <img src="screenshots/Notes.jpg" alt="Notes and quotes" width="150"/>
+  <img src="screenshots/UserPanel.jpg" alt="Reading chart" width="150"/>
 </p>
 
 ## Features
