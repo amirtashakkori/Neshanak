@@ -22,18 +22,13 @@ The entire UI is in Persian and laid out right-to-left.
   <sub><b>App overview</b></sub>
 </p>
 
-<table>
-  <tr>
-    <td align="center"><img src="screenshots/Home.jpg" width="250"/><br/><sub><b>Home</b></sub></td>
-    <td align="center"><img src="screenshots/Library.jpg" width="250"/><br/><sub><b>Library</b></sub></td>
-    <td align="center"><img src="screenshots/Details.jpg" width="250"/><br/><sub><b>Book details</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="screenshots/Notes.jpg" width="250"/><br/><sub><b>Notes &amp; quotes</b></sub></td>
-    <td align="center"><img src="screenshots/UserPanel.jpg" width="250"/><br/><sub><b>Reading chart</b></sub></td>
-    <td></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="screenshots/Home.jpg" alt="Home" width="170"/>
+  <img src="screenshots/Library.jpg" alt="Library" width="170"/>
+  <img src="screenshots/Details.jpg" alt="Book details" width="170"/>
+  <img src="screenshots/Notes.jpg" alt="Notes and quotes" width="170"/>
+  <img src="screenshots/UserPanel.jpg" alt="Reading chart" width="170"/>
+</p>
 
 ## Features
 
